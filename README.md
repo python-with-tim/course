@@ -111,6 +111,7 @@
 - "Под капотом" у matplotlib
 - Красивые визуализации — seaborn
 - Что такое машинное обучение?
+- Anaconda, Conda,
 - Jupyter Notebook good practices
 
 Кроме того, мы продолжим практиковаться в Python, решая задачи на [CodeSignal](https://app.codesignal.com/arcade)
