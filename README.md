@@ -125,6 +125,7 @@
 - Что такое машинное обучение?
 - Anaconda, Conda
 - Jupyter Notebook good practices
+- Работа с изображениями на Python — OpenCV, sklearn-image
 
 Кроме того, мы продолжим практиковаться в Python, решая задачи на [CodeSignal](https://app.codesignal.com/arcade)
 
